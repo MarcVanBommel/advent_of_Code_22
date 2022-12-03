@@ -1,0 +1,15 @@
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\bin\Debug\net6.0\ad_d2.exe
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\bin\Debug\net6.0\ad_d2.deps.json
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\bin\Debug\net6.0\ad_d2.runtimeconfig.json
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\bin\Debug\net6.0\ad_d2.dll
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\bin\Debug\net6.0\ad_d2.pdb
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ad_d2.csproj.AssemblyReference.cache
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ad_d2.GeneratedMSBuildEditorConfig.editorconfig
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ad_d2.AssemblyInfoInputs.cache
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ad_d2.AssemblyInfo.cs
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ad_d2.csproj.CoreCompileInputs.cache
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ad_d2.dll
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\refint\ad_d2.dll
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ad_d2.pdb
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ad_d2.genruntimeconfig.cache
+G:\marc\advent of code\advent of code 22\code\ad_d2\ad_d2\obj\Debug\net6.0\ref\ad_d2.dll

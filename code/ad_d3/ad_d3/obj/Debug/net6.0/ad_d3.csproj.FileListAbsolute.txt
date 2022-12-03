@@ -1,0 +1,15 @@
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\bin\Debug\net6.0\ad_d3.exe
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\bin\Debug\net6.0\ad_d3.deps.json
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\bin\Debug\net6.0\ad_d3.runtimeconfig.json
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\bin\Debug\net6.0\ad_d3.dll
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\bin\Debug\net6.0\ad_d3.pdb
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ad_d3.csproj.AssemblyReference.cache
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ad_d3.GeneratedMSBuildEditorConfig.editorconfig
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ad_d3.AssemblyInfoInputs.cache
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ad_d3.AssemblyInfo.cs
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ad_d3.csproj.CoreCompileInputs.cache
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ad_d3.dll
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\refint\ad_d3.dll
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ad_d3.pdb
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ad_d3.genruntimeconfig.cache
+G:\marc\advent_of_code\advent_of_code_22\code\ad_d3\ad_d3\obj\Debug\net6.0\ref\ad_d3.dll
